@@ -9,3 +9,6 @@ Use Mac20,1 profile
 
 # BIOS
 use official dortania's guide to set bios on Comet Lake
+
+# Credits
+- whole hackintosh community
